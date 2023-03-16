@@ -1,6 +1,6 @@
-En version af default-web-application 
+#En version af default-web-application - med startkode fra 2. semester mappen osv osv
 
-# default-web-applikation med page controller
+## default-web-applikation med page controller
 
 ## Startkode på 2. semester efterår 2022
 
