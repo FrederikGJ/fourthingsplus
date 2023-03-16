@@ -1,4 +1,4 @@
-#En version af default-web-application - med startkode fra 2. semester mappen osv osv
+# En version af default-web-application - med startkode fra 2. semester mappen osv osv
 
 ## default-web-applikation med page controller
 
